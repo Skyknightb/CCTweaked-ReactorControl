@@ -8,3 +8,5 @@ Basic Big/Extreme Reactor info display and control. It autodetects display size,
 
 **Additional Info:**
 There are older and way better Reactor Control programs made for CC but since some servers don't allow the use of HTTP.api then I made my own, you can download the file and then move it into the Basic/Advanced Screen in Minecraft, it will copy it to your computer in the game.
+
+[Reactor-Info.png](https://postimg.cc/R6Vb5XPV)
